@@ -1,0 +1,1375 @@
+fileFormatVersion: 2
+guid: 78a7af6139341d94d894686f137fe0f5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 140
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: among us 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1132.4445
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8debd74c263114bb7f9e9d4f8bff9c
+      internalID: 1643207081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1132.4445
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773d00931b9a45440b6f821435f6ccdd
+      internalID: 86354953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1132
+        width: 146
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9862d91437e543948a0e17b243af5481
+      internalID: -1285288038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1158
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90f561db90e3ce4a923c7fe8151393b
+      internalID: 1903426335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_4
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1132.4445
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b867cf68ac5d739429cb6f63836eac6f
+      internalID: 20097231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_5
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1132.4445
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c746f6b0cac0bc4282d136f687801e6
+      internalID: -633766621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_6
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1132.4445
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86276c158edd5754997f292144698b3a
+      internalID: -459801183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1015
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a95236f70290e94a9be6f455b8b3f13
+      internalID: 1151487408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1015
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a5ce418c389b444b7dc5c07df4dfb4
+      internalID: 784043442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1015
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ffdc2ad6f4e7040ab425cd815fade4
+      internalID: 413846926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_10
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1015
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a952b887c22cf24daae9230280f4f01
+      internalID: 262310489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_11
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1015
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d158ab47832b27438ebd734d98a26bb
+      internalID: -1262214952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_12
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1015
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42104b3b7226017429a7ce6b5f43470a
+      internalID: 1085367284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_13
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1015
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73856932d6d534e4480160d7eafd4a56
+      internalID: 1394190796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 850.44446
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd02e708db4e8734796f0b1d0c7df092
+      internalID: 366386439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 850.44446
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a08f99c1c78efc429a2efddb29427c3
+      internalID: -442306548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_16
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 850.44446
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d94944a9759c134b80d0fbcc60976f7
+      internalID: -1146412031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_17
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 896
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc3e57f749b7b043a957ebc4ba2f495
+      internalID: -552234291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_18
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 850.44446
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1ebcaf13a2828458c764f3eb59dfc6
+      internalID: -1059336833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_19
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 850.44446
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4188c4693077cf84380e6d2a09027414
+      internalID: -1764672792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_20
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 850.44446
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae32dab15430174294be3ea3cc13b9b
+      internalID: -834451686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 709.44446
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c4775877241fb4cb82029330e72d8b
+      internalID: 11546555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_22
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 709.44446
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4476c7d98fcdc14984fa6fcd080c515
+      internalID: 827757571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_23
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 709.44446
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea1baba79094af4bb0e859549738574
+      internalID: 915022727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_24
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 777
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a20c6662cfd1740888ac24c5297347
+      internalID: 157262522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_25
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 709.44446
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d26b12282fa2a641974246b99f9381a
+      internalID: -1431211732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_26
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 709.44446
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e427c7f82ef9f45a54c43fdb9ad73f
+      internalID: 233651152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_27
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 709.44446
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c2b9e2cd2622d47b8203db4fc3eac7
+      internalID: 572634317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568.44446
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de990365e1a4324a80780709134ac49
+      internalID: 693431795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_29
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 568.44446
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e2f68ce1313ee439acc6a605d9c96b
+      internalID: 2141142926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_30
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 568.44446
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecef78b6fcaea834e8af105e7a117698
+      internalID: -1377807032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_31
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 632
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a19455f59bc6d4d91434c168ae3f75
+      internalID: 1644952731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_32
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 568.44446
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac9c3ef65662f94c9a6421d147c5b84
+      internalID: -1283658955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_33
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 568.44446
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13035757a0c70f4ea3d2c0b11c1500e
+      internalID: 1506967618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_34
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 568.44446
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344f9e2d26c946840813a605674c129e
+      internalID: -1641949381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 427.44446
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4775739e7631b4c43a46078331de532a
+      internalID: 1914466727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_36
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 427.44446
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eebe858bc336cf438096ed9bea32965
+      internalID: 167218007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_37
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 427.44446
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1da648d6d0111446ad7cb16fcffa216
+      internalID: -1640361778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_38
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 520
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519a6bfa9a6dca5409ee3668c4f9dc53
+      internalID: 1051236836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_39
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 427.44446
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a000eea7c34ce4891cc0ed71a16ce7
+      internalID: 154640547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_40
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 427.44446
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327f41d677e8e2248a7848f0e64df40f
+      internalID: 499074198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_41
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 427.44446
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bc5e2154df88c4d9acdaa07e2d1895
+      internalID: -1415974037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286.44446
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb27c82ed06c3b4aa7d637c8ae4ad33
+      internalID: 136797584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_43
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 286.44446
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8980943eba6b014fbb1754540a87d23
+      internalID: 253302853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_44
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 286.44446
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b70e473aaaadc40b2ebf70b60c32ae
+      internalID: 223027486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_45
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 410
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16f14e7012c43244b3b8d26f493ae0d
+      internalID: -648798375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_46
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 286.44446
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796d58302d09e1c4e87861757a02d3e3
+      internalID: -933379448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_47
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 286.44446
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe74da1b5eeaa340ab5eeb8d1a98157
+      internalID: -1349216367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_48
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 286.44446
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcdd4b9281087142ae00855eb9ccc95
+      internalID: -1043086110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145.44444
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057e57f788e1b5a42a6efee589104def
+      internalID: -1911236662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_50
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 145.44444
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3b5931adae29d4cbaa79da60617d5e
+      internalID: 1314044759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_51
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 145.44444
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5cfe1b831ff0d4d86497033293452b
+      internalID: 626027521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_52
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 279
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193b38972047c714194fdc4a72d43899
+      internalID: 2038663037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_53
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 145.44444
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1546e7b3dca15cd458b8e76905352fe2
+      internalID: -366791615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_54
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 145.44444
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f12745d5d6c2524ebf90611959f3bca
+      internalID: 232427920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_55
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 145.44444
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d99b4826909c83468368a149239f75c
+      internalID: 706506879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4.4444427
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b836d0d4a948254b9f6658290873914
+      internalID: -1734384297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_57
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 155
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989a20f9c29c77e4c81688dff5d55f8f
+      internalID: 1551072810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_58
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 4.4444427
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61591c1b1315eb448a63e6c4e6892aa9
+      internalID: 1757069345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among us 2_59
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 4.4444427
+        width: 146.28572
+        height: 141.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b5e439b00996b4281c55a0c23706ba
+      internalID: -787882482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
